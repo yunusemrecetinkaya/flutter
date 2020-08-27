@@ -5,7 +5,7 @@ Yapmış olduğum Flutter projesinde görev takip sistemini içermektedir. Bu k�
 - Uygulama menüsünü barındıran anasayfa
 - Bugün için yapılması gereken görevlerin ekleneceğini bugün görev sayfası
 - Görevler arasında önem arz edenlerin gösterildiği sayfa
-- İleriye dönük planlarınların listelendiği görev sayfası
+- İleriye dönük planların listelendiği görev sayfası
 - Tüm görevlerin yer aldığı sayfadır.
 
 
